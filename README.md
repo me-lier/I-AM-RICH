@@ -1,1 +1,3 @@
 # I-AM-RICH
+
+Just an app of IOS SWIFT which shows text of I AM RICH and an Image of prefixed.....
